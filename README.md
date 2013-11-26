@@ -4,7 +4,7 @@ Każdy zespół tworzy swój plik jakiego typu chce byle było to odt.
 Jeżeli ktoś chce tex albo doc czy docx sprawa jest do ustalenia.
 
 Każdy zespół ma za zadanie stworzyć 2 strony tekstu (totalne minimum) o rozmiarze 10.
-Dodatkowo jakies obrazki czy wykresy conajmniej jedna strona.
+Dodatkowo jakies obrazki czy wykresy co najmniej jedna strona.
 Ta sprawa również jest do przedyskutowania.
 
 Tematy wrzuciłem na forum w odpowiednim temacie. Tam będą prowadzone dyskusje
